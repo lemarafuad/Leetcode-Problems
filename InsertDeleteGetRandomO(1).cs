@@ -2,7 +2,7 @@ public class RandomizedSet
 {
     private List<int> myList;
     private Dictionary<int, int> myDictionary;
-    Random randomNumber;
+    private Random randomNumber;
 
     public RandomizedSet()
     {
